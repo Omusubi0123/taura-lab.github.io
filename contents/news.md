@@ -5,6 +5,8 @@ nav_exclude: true
 ---
 
 # Old News since 2014 Nov. (過去のニュース)
+
+### 2021年
   * 2021 Dec. 6: 卒業生 遠藤亘の博士研究の仕事 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" がJournal of Information Processingに採択されました．(A paper by Endo et al. got accepted to Journal of Information Processing.)
   * 2021 Nov. 1: 卒業生 井原央翔のPRO-2020-1における発表が，[CS領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2021.html)を受賞しました．(Ihara Hiroka recieved [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-awardee-2021.html).)
   * 2021 Jul. 27: 卒業生 藤村柊吾らの論文 "An Efficient and Scalable Distributed Hypergraph Processing System" がJournal of Information Processingに採択されました．(A paper by Fujimura et al. got accepted to Journal of Information Processing.)
@@ -12,6 +14,8 @@ nav_exclude: true
   * 2021 Mar. 19: 修士課程 椎名峻平，福岡拓也，山口龍太郎が修士号を取得しました． (Shumpei Shiina, Takuya Fukuoka, and Ryutaro Yamaguchi received a master's degree.)
   * 2021 Mar. 18: 卒論生 秀島宇音，藤村柊吾，木村元紀，役山真柊が学士号を取得しました． (Takato Hideshima, Shugo Fujimura, Genki Kimura, and Makoto Yakuyama received a bachelor's degree.)
   * 2021 Feb. 8: 修士課程 福岡拓也らの論文 "Pitfalls of InfiniBand with On-Demand Paging" が [ISPASS 2021](https://www.ispass.org/ispass2021/) に採択されました． (A paper by Takuya Fukuoka et al. has been accepted by [ISPASS 2021](https://www.ispass.org/ispass2021/))
+
+### 2020年
   * 2020 Dec. 11: 博士課程 李楽らの論文 "Plex: Scaling Parallel Lexing with Backtrack-Free Prescanning" が [IPDPS 2021](https://www.ipdps.org/) に採択されました． (A paper by Le Li et al. has been accepted by [IPDPS 2021](https://www.ipdps.org/))
   * 2020 Nov. 17: 修士課程 椎名峻平らの論文 "Lightweight Preemptive User-Level Threads" が [PPoPP 2021](https://ppopp21.sigplan.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [PPoPP 2021](https://ppopp21.sigplan.org/)) 
   * 2020 Oct. 2: 卒業生 遠藤亘の博士研究の仕事 "MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA" が[IPDRM 2020](https://ipdrm.github.io/)に採択されました．(A paper by Wataru Endo et al. got accepted for [IPDRM 2020](https://ipdrm.github.io/).)
@@ -22,6 +26,8 @@ nav_exclude: true
   * 2020 Jul. 28: 卒業生 井原央翔の修士研究の仕事 "Centaurus: A Dynamic Parser Generator for Parallel Ad Hoc Data Extraction" が[IPSJ Transactions on Programming Vol.13 No.4](http://id.nii.ac.jp/1001/00207287/)に採択されました．
   * 2020 May. 26: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
   * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
+
+### 2019年
   * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "On the Correct Measurement of Application Memory Bandwidth and Memory Access Latency" が [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html) に採択されました． (A paper by Christian Helm et al. has been accepted by [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html))
   * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](https://pactconf.org/).)
   * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](https://pactconf.org/).)
@@ -33,6 +39,8 @@ nav_exclude: true
   * 2019 Mar. 13: 卒論生 椎名峻平らの論文 "Almost Deterministic Work Stealing" が[xSIG 2019](http://xsig.hpcc.jp/2019/)にてBest Research Awardを受賞しました． (Shumpei Shiina et al. won Best Research Award in [xSIG 2019](http://xsig.hpcc.jp/2019/))
   * 2019 Mar. 07: 修士課程 樋口兼一らの論文 "ClPy: A NumPy-compatible Library Accelerated with OpenCL" が [ScaDL 2019](https://sites.google.com/site/scadlworkshop/) に採択されました． (A paper by Tomokazu Higuchi et al. has been accepted by [ScaDL 2019](https://sites.google.com/site/scadlworkshop/))
   * 2019 Mar. 01: 博士課程 クリスティアン ヘルムらの論文 "PerfMemPlus: A Tool for Automatic Discovery of Memory Performance Problems" が [ISC High Performance 2019](https://www.isc-hpc.com/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ISC High Performance 2019](https://www.isc-hpc.com/))
+
+### 2018年 
   * 2018 Dec. 21: [ポスドク研究員募集](posdoc_nedo_2018)
   * 2018 Aug. 15: 博士課程 岩崎慎太郎らの論文 "Lessons Learned from Analyzing Dynamic Promotion for User-Level Threading" が [SC 2018](https://sc18.supercomputing.org/) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [SC 2018](https://sc18.supercomputing.org/)) 
   * 2018 Aug. 2: 修士課程 樋口兼一が「深層学習フレームワークにおけるCPUとGPUの性能解析および最適化」の研究で[情報処理学会コンピュータ・サイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2018.html)を受賞しました．(Tomokazu Higuchi et al. won IPSJ Computer Science Area Award by his research on "Performance analysis and optimization of CPU and GPU in deep learning framework.") 
@@ -40,6 +48,8 @@ nav_exclude: true
   * 2018 May. 31: 修士課程 樋口兼一のポスターが[xSIG 2018](http://xsig.hpcc.jp/2018/)にてPoster Awardに選ばれました．(A poster by Tomokazu Higuchi et al. won Poster Award in [xSIG 2018](http://xsig.hpcc.jp/2018/)) 
   * 2018 May. 3: 博士課程 喬 宇宸らの論文 "Parallelizing and optimizing neural Encoder–Decoder models without padding on multi-core architecture" が [Future Generation Computer System](https://www.sciencedirect.com/science/article/pii/S0167739X17318150) に採択されました． (A paper by Yuchen Qiao et al. has been accepted by [Future Generation Computer System 2018](https://www.sciencedirect.com/science/article/pii/S0167739X17318150)) 
   * 2018 Mar. 23: 卒論生 藤澤 徹の卒業論文 "コールサイトローカルな型情報による効率的な関数インライン展開" が，電子情報工学科 優秀卒論賞に選ばれました． 
+
+### 2017年
   * 2017 Oct. 1: 博士課程 遠藤 亘らの論文 "Parallelized Software Offloading of Low-Level Communication with User-Level Threads" が [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/) に採択されました． (A paper by Wataru Endo et al. has been accepted by [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/)) 
   * 2017 Jun. 30: 博士課程 フィン ゴク アンらの論文 "Delay Spotter: A Tool for Spotting Scheduler-Caused Delays in Task Parallel Runtime Systems" が [IEEE Cluster 2017](https://cluster17.github.io/) に採択されました． (A paper by An Huynh et al. has been accepted by [IEEE Cluster 2017](https://cluster17.github.io/)) 
   * 2017 Mar. 24: 卒論生 中澤弘樹の卒業論文 "Speeding Up AMFS: A File System for Emerging Persistent Memory Supporting Atomic Data Durability (アトミックなデータ永続化を備えた次世代不揮発性メモリ向けファイルシステム(AMFS)の高速化)" が，電子情報工学科 優秀卒論賞に選ばれました． 
@@ -49,6 +59,8 @@ nav_exclude: true
   * 2017 Feb. 28: 卒論生 中澤弘樹の論文 "アトミックなデータ永続化を備えた次世代不揮発性メモリ向けファイルシステム (AMFS) の高速化" が，[xSIG 2017](http://xsig.hpcc.jp/)にてBest B4 Student Awardsに選ばれました (A paper by Hiroki Nakazawa won Best B4 Student Awards in [xSIG 2017](http://xsig.hpcc.jp/en/)). 
   * 2017 Feb. 28: 修士課程 伊藤大の論文 "Bzip2+ : FBWT を用いた高速な圧縮" が，[xSIG 2017](http://xsig.hpcc.jp/)にてOutstanding Effort Awardに選ばれました (A paper by Masaru Ito won Outstanding Effort Award in [xSIG 2017](http://xsig.hpcc.jp/en/)). 
   * 2017 Feb. 10: 特別研究生 Qiaoらの論文 "A Cache Friendly Parallel Encoder-Decoder Model without Padding on Mulit-core Architecture" が，[ParLearning 2017](http://parlearning.ecs.fullerton.edu/) に採択されました (A short paper by Yuchen Qiao et al. has been accepted by [ParLearning 2017](http://parlearning.ecs.fullerton.edu/)). 
+
+### 2016年
   * 2016 Nov. 14: 卒論生 井原央翔らの論文"Pipelined Intermediate Fabrics for Parallel Execution"が[PMES 2016](https://sites.google.com/site/2016pmes/)に採択されました。A paper by Hiroka Ihara et al. has been accepted by [PMES 2016](https://sites.google.com/site/2016pmes/) workshop. 
   * 2016 Aug. 25: 修士課程 岩崎慎太郎らの論文 "A Static Cut-off for Task Parallel Programs" が[ACM PACT 2016](http://pactconf.org/program/#Papers)でBest Paper候補(3件)に選ばれました．A paper by Shintaro Iwasaki et al. is nominated as one of the three best paper candidates in [ACM PACT 2016](http://pactconf.org/program/#Papers). 
   * 2016 Jul. 14: 修士課程 岩崎慎太郎らの論文 "A Static Cut-off for Task Parallel Programs" が[ACM PACT 2016](http://pactconf.org/program/#Papers)に採択されました．A paper by Shintaro Iwasaki et al. has been accepted by [ACM PACT 2016](http://pactconf.org/program/#Papers). 
@@ -56,6 +68,8 @@ nav_exclude: true
   * 2016 Jun. 29: 修士課程 伊藤大らの論文 "Fragmented BWT : Extended BWT for full-text indexing" が[SPIRE 2016](https://sites.google.com/site/spire2016jp/accepted-papers)に採択されました．A paper by Masaru Ito et al. was accepted by [SPIRE 2016](https://sites.google.com/site/spire2016jp/accepted-papers). 
   * 2016 Jun. 28: 修士課程 岩崎慎太郎らの論文 "Autotuning of a Cut-off for Task Parallel Programs" が[ATMG 2016](http://atrg.jp/atmg/2016/)に採択されました。A paper by Shintaro Iwasaki et al. has been accepted by [ATMG 2016](http://atrg.jp/atmg/2016/). 
   * 2016 Jun. 14: 修士課程 岩崎慎太郎のポスターがACM HPDC にて，[Best Poster](http://www.hpdc.org/2016/awards/best-paper-award/)に選ばれました (28件中1件)．A poster by Shintaro Iwasaki was selected as [Best Poster](http://www.hpdc.org/2016/awards/best-paper-award/) in ACM HPDC. 
+
+### 2015年
   * 2015 Dec. 25: [新4年生向紹介文 (Introduction to our lab for prospective students)](新4年生向紹介文)
   * 2015 Dec. 14: 修士課程 岩崎慎太郎の論文 "Autotuning for Task Parallel Programs" が，[ACSI 2016](http://acsi.hpcc.jp/2016/)にてOutstanding Student Research Awardに選ばれました (A paper by Shintaro Iwasaki won Outstanding Student Research in [ACSI 2016](http://acsi.hpcc.jp/2016/)). 
   * 2015 Dec. 14: 博士課程 井上拓の論文 "Accelerating Tomographic Reconstruction With Efficient Interpolation" が，[ACSI 2016](http://acsi.hpcc.jp/2016/)にてOutstanding Research Awardに選ばれました (A paper by Hiroshi Inoue won Outstanding Research Award in [ACSI 2016](http://acsi.hpcc.jp/2016/). 
@@ -66,4 +80,6 @@ nav_exclude: true
   * 2015 May. 11 博士課程 井上拓の論文 "SIMD- and Cache-Friendly Algorithm for Sorting an Array of Structures"がVLDBに採択されました [VLDBサイト](http://www.vldb.org/pvldb/vol8.html) (A paper by Hiroshi Inoue has been accepted by [VLDB](http://www.vldb.org/pvldb/vol8.html)) 
   * 2015 Feb. 25: 修士課程 西岡祐輔の論文 "Scalable Task-Parallel SGD on Matrix Factorization in Multicore Architectures" が，[ParLearning 2015](http://www.usc.edu/dept/engineering/parlearning/) に採択されました (A paper by Yusuke Nishioka has been accepted by [ParLearning 2015](http://www.usc.edu/dept/engineering/parlearning/)). 
   * 2015 Feb. 25: 卒論生 岩崎慎太郎の卒業論文 "Vectorizing Compiler for Task Parallel Programs (タスク並列プログラムをベクトル化する言語処理系)" が，工学部長賞(最優秀)に選ばれました． 
+
+### 2014年
   * 2014 Nov. : 博士課程 井上拓の論文 "Faster Set Intersection with SIMD instructions by Reducing Branch Mispredictions"がVLDBに採択されました [VLDBサイト](http://www.vldb.org/pvldb/vol8.html) (A paper by Hiroshi Inoue has been accepted by [VLDB](http://www.vldb.org/pvldb/vol8.html)) 

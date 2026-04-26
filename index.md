@@ -64,10 +64,14 @@ Additionally, videos and documents used in past lab introductions can be accesse
 </details>
 
 ## News (ニュース)
+
+### 2026年
   * 2026 Mar. 25: 学士課程 井澤慶広が工学部長賞（研究）を受賞しました．また，学士課程 井澤慶広，瀧川雄理，前田優希が優秀卒業論文賞を受賞しました．(Yoshihiro Izawa, an undergraduate student, received the Deen's Award for Research. Additionally, undergraduate students Yoshihiro Izawa, Yuri Takigawa, and Yuki Maeda were awarded the Outstanding Graduation Thesis Prize.)
   * 2026 Mar. 1: 学士課程 井澤慶広の論文 Steering at the Source: Style Modulation Heads for Robust Persona Control が[ICLR 2026 workshop](https://representational-alignment.github.io/2026/)に採択されました．（A paper by undergraduate student Yoshihiro Izawa, titled Steering at the Source: Style Modulation Heads for Robust Persona Control, has been accepted to an [ICLR 2026 workshop](https://representational-alignment.github.io/2026/) .）
   * 2026 Jan. 13: 研究員 徐小航の論文 MMTableBench: A Multi-level Multimodal Benchmark for Reasoning and Layout Complexity in Table QA が[WWW 2026](https://www2026.thewebconf.org/) に採択されました．(A paper by postdoc Xiaohang Xu, titled MMTableBench: A Multi-level Multimodal Benchmark for Reasoning and Layout Complexity in Table QA, has been accepted to the [WWW 2026](https://www2026.thewebconf.org/) .)
   * 2026 Jan. 4: 研究員 徐小航の論文 [JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679) が[EACL 2026](https://2026.eacl.org/) のポスター発表に採択されました．(A paper by postdoc Xiaohang Xu, titled [JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community](https://arxiv.org/abs/2503.21679), has been accepted to the [EACL 2026](https://2026.eacl.org/) poster.)
+
+### 2025年
   * 2025 Dec. 18: 修士課程 細川颯介と学士課程 前田優希の口頭発表が，[LATHC 2026](https://jnamaral.github.io/LATHC26/) に採択されました．(Oral presentations by Sosuke Hosokawa and Yuki Maeda have been accepted to [LATHC 2026](https://jnamaral.github.io/LATHC26/).)
   * 2025 Nov. 30 - Dec. 6: 博士課程 Haotian Gao が，Renhe Jiang 氏との共同研究「How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning」について [NeurIPS2025](https://neurips.cc/virtual/2025/loc/mexico-city/poster/117831) で発表しました．(Haotian Gao, a doctoral student, presented "How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning" at [NeurIPS2025](https://neurips.cc/virtual/2025/loc/mexico-city/poster/117831), in collaboration with Prof. Renhe Jiang.)
   * 2025 Nov. 25: 修士課程 渡邊梢平と学士課程 井澤慶広が[Japanese Symposium on Open Large Language Models](https://llmc.nii.ac.jp/llmc_sympo2025/) にて研究発表しました．(Shohei Watanabe and Yoshihiro Izawa presented at [Japanese Symposium on Open Large Language Models](https://llmc.nii.ac.jp/llmc_sympo2025/))
@@ -77,15 +81,21 @@ Additionally, videos and documents used in past lab introductions can be accesse
   * 2025 Aug. 4-6: 修士課程 高橋淳一郎が [SWoPP2025](https://sites.google.com/site/swoppweb/) において "Cache Coherent な Heterogeneous Computing 環境での機械学習に向けた性能評価" を発表し，Outstanding Student Award を受賞しました．(Junichiro Takahashi, a master’s course student, presented 'a performance evaluation for machine learning in a cache-coherent heterogeneous computing environment' at [SWoPP2025](https://sites.google.com/site/swoppweb/) and received the Outstanding Student Award.)
   * 2025 Jul. 20-24: 修士課程 江口航志と，中村遼氏，空閑洋平氏の共著論文 InterconnectLens: Enhancing Observability of Data Transfers in GPU Clusters が [PEARC25](https://pearc.acm.org/pearc25/) に採択されました．(A paper co-authored by Koshi Eguchi, Ryo Nakamura, and Yohei Kuga, titled "InterconnectLens: Enhancing Observability of Data Transfers in GPU Clusters", has been accepted to [PEARC25](https://pearc.acm.org/pearc25/).)
   * 2025 Feb. 19: 田浦と, サイボウズLab 星野喬氏 (田浦研卒業生) の共著論文 [Fairer and More Scalable Reader-Writer Locks by Optimizing Queue Management](https://dl.acm.org/doi/10.1145/3710848.3710877) が PPoPP 2025 に採択されました．(A paper co-authored by Taura and Takashi Hoshino (Cybouzu Lab), an alumnus of the Taura Lab, titled ["Fairer and More Scalable Reader-Writer Locks by Optimizing Queue Management"](https://dl.acm.org/doi/10.1145/3710848.3710877) , has been accepted to PPoPP 2025.)
+
+### 2024年
   * 2024 Dec. 12: 修士課程 利根悠司らの論文 "ContinuouSP: Generative Model for Crystal Structure Prediction with Invariance and Continuity" が [AI2ASE 2025](https://ai-2-ase.github.io/) に採択されました． (A paper by Yuji Tone et al. has been accepted by [AI2ASE 2025](https://ai-2-ase.github.io/))
   * 2024 Jun. 26: 卒業生 椎名峻平が，2023-HPC-190での発表について，[2024年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2024.html)を受賞しました．(Shumpei Shiina won the IPSJ Computer Science Research Award for Young Scientists for his presentation at 2023-HPC-190)
   * 2024 Mar. 21: 博士課程 椎名峻平の博士論文 "Task Parallelism at Scale: Locality-Aware Scheduling and Global Address Space (局所性に配慮したスケジューリングと大域アドレス空間による大規模タスク並列処理)" が情報理工学系研究科 研究科長賞に選ばれました． (Shumpei Shiina received a Dean's award from the Graduate School of Information Science and Technology.)
   * 2024 Mar. 7: 卒論生 両角颯のPPL 2024における登壇発表が，発表賞（一般の部）を受賞しました．(Sou Morozumi won the Presentation Award at PPL 2024)
+
+### 2023年
   * 2023 Nov. 14: 修士課程 小林亮太のJSSST 2023における発表が，学生奨励賞・優秀発表賞を受賞しました．(Ryota Kobayashi won the Student Encouragement Award and Excellent Presentation Award at JSSST 2023)
   * 2023 Oct. 31: 卒業生 秀島宇音が，PRO-2022-2での発表について，[2023年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2023.html)を受賞しました．(Takato Hideshima won the IPSJ Computer Science Research Award for Young Scientists for his presentation at PRO-2022-2)
   * 2023 Oct. 1: 佐藤重幸が東京大学の助教から電気通信大学の准教授に転出しました．(Shigeyuki Sato has moved from Assistant Professor at the University of Tokyo to Associate Professor at the University of Electro-Communications)
   * 2023 Jul. 28: 博士課程 椎名峻平が[2023年度山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)を受賞しました．
   * 2023 Jun. 17: 博士課程 椎名峻平らの論文 "Itoyori: Reconciling Global Address Space and Global Fork-Join Task Parallelism" が [SC 2023](https://sc23.supercomputing.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [SC 2023](https://sc23.supercomputing.org/))
+
+### 2022年
   * 2022 Dec. 8: 博士課程 李楽らの論文 "Associative Operator Precedence Parsing: A Method To Increase Data Parsing Parallelism" が [HPC Asia 2023](https://www.sc-asia.org/hpc-asia-2023/) に採択されました． (A paper by Le Li et al. has been accepted by [HPC Asia 2023](https://www.sc-asia.org/hpc-asia-2023/))
   * 2022 Oct. 23: 博士課程 李楽らの論文 "SimdFSM: An Adaptive Vectorization of Finite State Machines for Speculative Execution" が [PDCAT 2022](https://www.hpc.is.tohoku.ac.jp/pdcat2022/) に採択されました． (A paper by Le Li et al. has been accepted by [PDCAT 2022](https://www.hpc.is.tohoku.ac.jp/pdcat2022/))
   * 2022 Jul. 28: 博士課程 椎名峻平らの論文 "Improving Cache Utilization of Nested Parallel Programs by Almost Deterministic Work Stealing" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td))
